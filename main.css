@@ -1,0 +1,22 @@
+body{
+background-color: "FFA07A";
+background-image: url(abc.jpg);
+background-size: cover;
+font-family: Arial;
+font-size: 17pt;
+}
+a{
+color: grey;
+}
+a:hover
+{
+color: white;
+}
+h1{
+text-align: center;
+color: grey;
+}
+h1:hover
+{
+color: white;
+}
